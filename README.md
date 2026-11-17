@@ -78,4 +78,4 @@ I focus on software that is **measurable, production-ready, and built to last**.
 
 🏪 https://grow.thedevcompany.in/
 
-📩 [thedevcompanyhq@gmail.com](mailto:thedevcompanyhq@gmail.com)
+📩 [contact@thedevcompany.in](mailto:contact@thedevcompany.in)
